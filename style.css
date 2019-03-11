@@ -21,8 +21,10 @@
 }
 
 .layout-1 #topHeader{
-    background-color:red;
-
+    
+ background-color:red;
+    width:100%;
+height:50px;
 }
 
 .layout-1 nav{
@@ -32,10 +34,13 @@
 
 .layout-1 section{
     background-color:green;
+
 }
 
 .layout-1 #sectionHeader{
     background-color:yellow;
+    width:100%;
+    height:50px;
  }
 
 .layout-1 article{
@@ -43,6 +48,7 @@
 }
 .layout-1 aside{
     background-color:purple;
+   
 }
 
 .layout-1 aside a{
@@ -50,6 +56,7 @@
 }
 
 .layout-1 footer{
+    
 }
 
 #topHeader2{
