@@ -48,6 +48,7 @@ width:600px;
 .layout-1 article{
     background-color:orange;
     width:490px;
+    height:110px;
 }
 .layout-1 aside{
     background-color:purple;
@@ -77,7 +78,9 @@ width:600px;
 }
 .layout-2 nav{
     background-color:blue;
+    
 }
+
 
 .layout-2 nav a{
     background-color:white;
@@ -94,13 +97,16 @@ width:600px;
 
 .aside-content{
     background-color:purple;
-    height:20px;
-
+   
+  
 }
+
 
 .aside-info{
     background-color:aqua;
+   
 }
+
 
 .layout-2 img{
     background-color: aqua;
@@ -111,23 +117,44 @@ width:600px;
 
 .layout-3 header{
     background-color:red;
+    text-align: center;
+    height:50px;
+
+
 }
 
 #sectionHeader3{
     background-color:blue;
+    text-align:center;
+    height:50px;
+    width:490px;
+    float:initial;
+    margin-right:-138px;
 }
 
 .layout-3 nav{
     background-color:yellow;
+    height:20px;
+    width:80px;
+  
 }
+
 
 .layout-3 section{
     background-color:orange;
+    height: 120px;
+    width:490px;
 }
 
 .layout-3 aside{
     background-color:purple;
+    float: right;
+    width:119px;
+    height:35px;
+    margin-top:-138px;
+    text-align: left;
 }
+
 
 #pageFooter{
     background-color:green;
